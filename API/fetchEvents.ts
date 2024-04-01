@@ -8,7 +8,6 @@ const fetchEvents = async() => {
   try {
     const res = await axios.get(process.env.EVENTS_ENDPOINT_FETCH);
 
-
     return res.data.data;
   } catch(error) {
     throw new Error("Ooops! something went wrong");
