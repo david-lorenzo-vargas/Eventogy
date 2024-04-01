@@ -30,6 +30,8 @@ localhost:3000  has been blocked by CORS policy: No 'Access-Control-Allow-Origin
 
 ![Screenshot 2024-04-01 at 15 19 26](https://github.com/david-lorenzo-vargas/Eventogy/assets/72414745/d80c8eb4-14ec-4745-b5de-9628fd327e27)
 
+![Screenshot 2024-04-01 at 15 19 41](https://github.com/david-lorenzo-vargas/Eventogy/assets/72414745/2e183c43-a69c-44ca-b4ec-7273e7a35340)
+
 
 Then, run the development server:
 
