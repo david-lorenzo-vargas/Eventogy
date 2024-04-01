@@ -98,6 +98,8 @@ eg.
 Dynamic routes have been added for opening events and when selecting 'Create New'.
 
 [pages/create-new/[create]/page.tsx](http://localhost:3000/pages/create-new/Event)
+<br>
+
 [pages/event/[slug]/page.tsx](http://localhost:3000/pages/event/boehm-inc-1705595812)
 
 (further implementetion needed for fetching data and display the correct info)
