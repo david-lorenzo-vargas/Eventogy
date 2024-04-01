@@ -87,10 +87,6 @@ A custom hook `useScreenSize` has been created for checking the size of the user
 
 Alias added for improting utilities, types, icons and components.
 
-eg.
-<br>
-<br>
-
 `import Chevron from "@icon/Chevron";`
 <br>
 <br>
