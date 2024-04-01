@@ -26,6 +26,11 @@ Add `.env` file to the root of the project and declare `EVENTS_ENDPOINT_FETCH` (
 
 localhost:3000  has been blocked by CORS policy: No 'Access-Control-Allow-Origin'. In order to run the code please add the following Chrome extension `Moesif Origin & CORS Changer` from the following url [www.chromewebstore.google.com](https://chromewebstore.google.com/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) and set it to "on"
 
+![Screenshot 2024-04-01 at 15 19 11](https://github.com/david-lorenzo-vargas/Eventogy/assets/72414745/06b817f6-07e7-4932-8775-451e75547c31)
+
+![Screenshot 2024-04-01 at 15 19 26](https://github.com/david-lorenzo-vargas/Eventogy/assets/72414745/d80c8eb4-14ec-4745-b5de-9628fd327e27)
+
+
 Then, run the development server:
 
 ```bash
