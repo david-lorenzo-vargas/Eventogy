@@ -120,7 +120,20 @@ The app is responsive and adjusts to desktop, tablet and mobile viewports, media
 
 ### Mobile
 
-![Screenshot 2024-04-01 at 11 02 42](https://github.com/david-lorenzo-vargas/Eventogy/assets/72414745/a9a3ffbf-f7d5-44b8-9e18-02e2f4021b1c)
+<table>
+<tr>
+<td width="50%"">
+  
+  ![Screenshot 2024-04-01 at 11 02 42](https://github.com/david-lorenzo-vargas/Eventogy/assets/72414745/a9a3ffbf-f7d5-44b8-9e18-02e2f4021b1c)
+  
+</td>
+<td width="50%">
+  
+  ![Screenshot 2024-04-01 at 17 56 44](https://github.com/david-lorenzo-vargas/Eventogy/assets/72414745/32d7ba13-c6f7-4e9a-91f1-e6baa6c84805)
+  
+</td>
+</tr>
+</table>
 
 ### Tablet
 
