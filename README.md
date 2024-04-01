@@ -53,7 +53,7 @@ The user can click on an Event and get redirected to a dynamic route as well as 
 
 ## Demo
 
-![Apr-01-2024 17-16-12](https://github.com/david-lorenzo-vargas/Eventogy/assets/72414745/ddbe7c75-aa21-448d-9a76-41d6b33d4165)
+![Apr-01-2024 19-20-17](https://github.com/david-lorenzo-vargas/Eventogy/assets/72414745/0721eed3-5b67-4818-a376-9d19064205eb)
 
 ## Stack
 
