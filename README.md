@@ -49,7 +49,7 @@ Event page built with Next.js, Material UI and Tailwind. When the user lands on 
 
 The user can click on an Event and get redirected to a dynamic route as well as get redirected to a dynamic route when selecting 'Create new'
 
-(further implementation needs for fetching the event and display the correct info in the page)
+(further implementation is needed for fetching the event and display the correct info in the page)
 
 ## Demo
 
