@@ -10,8 +10,12 @@ const EventCardBody = ({
   slug,
 }: Props): ReactElement => {
   return (
-    <Link href={`pages/event/${slug}`}>
-      <div className="mb-20 rounded-xl overflow-hidden bg-blue h-200">
+    <Link
+      href={`pages/event/${slug}`}
+    >
+      <div
+        className="mb-20 rounded-xl overflow-hidden bg-blue h-200 transition ease-in-out delay-150 duration-300 hover:-translate-y-1 hover:scale-110"
+      >
         <Image
           src={`https://source.unsplash.com/featured/concert600x60${index}?q=80?orientation=landscape`}
           alt="event-image"
